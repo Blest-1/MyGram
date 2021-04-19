@@ -1,0 +1,75 @@
+﻿@{ ViewData["Title"] = "My Gram"; }
+<form>
+    <fieldset>
+        <ledgend>User personal information</ledgend>
+    <table>
+        <tbody>
+            <tr>
+                <td>
+                    <label for="FirstName">First Name:</label>
+                    <input type="text" placeholder="Add your First Name" id="FirstName" />
+
+                    <label for="LastName">Last Name:</label>
+                    <input type="text" placeholder="Add your Last Name" id="LastName" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label>Gender:</label>
+                    <input type="radio" id="MaleGender" name="gender" />
+                    <label for="MaleGender">Male</label>
+
+                    <input type="radio" id="FemaleGender" name="gender" />
+                    <label for="FemaleGender">Female</label>
+
+                    <input type="radio" id="NoResponseGender" name="gender" />
+                    <label for="NoResponseGender">Prefer not to respond</label>
+                </td>
+              </tr>
+           </tbody>
+         </table>
+        <table>
+            <tbody>
+            <tr>
+                <td>
+                    <label>Select your favorite color:</label>
+                    <input type="color" id="FavoriteColor" />
+                </td>
+                <td>
+                    <label for="Birthday">Birthday:</label>
+                    <input type="date" id="Birthday" />
+                </td>
+            </tr>
+                </tbody>
+            </table>
+        <table>
+            <tbody>
+            <tr>
+                <td>
+                    <label for="EmailAddress">Email Address:</label>
+                    <input type="text" placeholder="Add your Email Address" size="55" id="EmailAddress" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label>Country Of Residence:</label>
+                    <select>
+                        <optgroup label="Country Of Residence">
+                            <option>USA</option>
+                        </optgroup>
+                    </select>
+                </td>
+            <tr>
+                <td>
+                    <label>Select profile image:</label>
+                    <input type="file" id="ChooseFiles" />
+                </td>
+            <tr>
+                <td>
+                   <button>Update User Information</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+        </fieldset>
+</form>

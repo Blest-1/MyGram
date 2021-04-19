@@ -1,0 +1,1232 @@
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.deps.json
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.runtimeconfig.json
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.runtimeconfig.dev.json
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.dll
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.pdb
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.Views.dll
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.Views.pdb
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.csprojAssemblyReference.cache
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.AssemblyInfoInputs.cache
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.AssemblyInfo.cs
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.csproj.CoreCompileInputs.cache
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.MvcApplicationPartsAssemblyInfo.cache
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.RazorAssemblyInfo.cache
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.RazorAssemblyInfo.cs
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/staticwebassets/InstaSlam.StaticWebAssets.Manifest.cache
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/staticwebassets/InstaSlam.StaticWebAssets.xml
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/scopedcss/bundle/InstaSlam.styles.css
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.TagHelpers.input.cache
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.TagHelpers.output.cache
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.RazorCoreGenerate.cache
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.RazorTargetAssemblyInfo.cache
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.RazorTargetAssemblyInfo.cs
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.Views.pdb
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.dll
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.pdb
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.genruntimeconfig.cache
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.csproj.CopyComplete
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/blest/Desktop/Stuff/Module1.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.deps.json
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.runtimeconfig.json
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.runtimeconfig.dev.json
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.dll
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.pdb
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.Views.dll
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.Views.pdb
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.csprojAssemblyReference.cache
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.AssemblyInfoInputs.cache
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.AssemblyInfo.cs
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.csproj.CoreCompileInputs.cache
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.MvcApplicationPartsAssemblyInfo.cache
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.RazorAssemblyInfo.cache
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.RazorAssemblyInfo.cs
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/staticwebassets/InstaSlam.StaticWebAssets.Manifest.cache
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/staticwebassets/InstaSlam.StaticWebAssets.xml
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/scopedcss/bundle/InstaSlam.styles.css
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.TagHelpers.input.cache
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.TagHelpers.output.cache
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.RazorCoreGenerate.cache
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.RazorTargetAssemblyInfo.cache
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.RazorTargetAssemblyInfo.cs
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.Views.pdb
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.csproj.CopyComplete
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.dll
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.pdb
+/Users/blest/Desktop/InstaSlam/Module1 copy.html/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.genruntimeconfig.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.deps.json
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.runtimeconfig.json
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.runtimeconfig.dev.json
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.pdb
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.Views.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.Views.pdb
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.csprojAssemblyReference.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.AssemblyInfoInputs.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.AssemblyInfo.cs
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.csproj.CoreCompileInputs.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.MvcApplicationPartsAssemblyInfo.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.RazorAssemblyInfo.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.RazorAssemblyInfo.cs
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/staticwebassets/InstaSlam.StaticWebAssets.Manifest.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/staticwebassets/InstaSlam.StaticWebAssets.xml
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/scopedcss/bundle/InstaSlam.styles.css
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.TagHelpers.input.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.TagHelpers.output.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.RazorCoreGenerate.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.RazorTargetAssemblyInfo.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.RazorTargetAssemblyInfo.cs
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.Views.pdb
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.csproj.CopyComplete
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.pdb
+/Users/blest/Desktop/InstaSlam/InstaSlam/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.genruntimeconfig.cache
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.deps.json
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.runtimeconfig.json
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.runtimeconfig.dev.json
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.dll
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.pdb
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.Views.dll
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/bin/Debug/netcoreapp3.1/InstaSlam.Views.pdb
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.csprojAssemblyReference.cache
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.AssemblyInfoInputs.cache
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.AssemblyInfo.cs
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.csproj.CoreCompileInputs.cache
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.MvcApplicationPartsAssemblyInfo.cache
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.RazorAssemblyInfo.cache
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.RazorAssemblyInfo.cs
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/staticwebassets/InstaSlam.StaticWebAssets.Manifest.cache
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/staticwebassets/InstaSlam.StaticWebAssets.xml
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/scopedcss/bundle/InstaSlam.styles.css
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.TagHelpers.input.cache
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.TagHelpers.output.cache
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.RazorCoreGenerate.cache
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.RazorTargetAssemblyInfo.cache
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.RazorTargetAssemblyInfo.cs
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.Views.pdb
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.csproj.CopyComplete
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.dll
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.pdb
+/Users/blest/Desktop/My Gram/My Gram/InstaSlam/obj/Debug/netcoreapp3.1/InstaSlam.genruntimeconfig.cache
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/InstaSlam.deps.json
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/InstaSlam.runtimeconfig.json
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/InstaSlam.runtimeconfig.dev.json
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/InstaSlam.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/InstaSlam.pdb
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/InstaSlam.Views.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/InstaSlam.Views.pdb
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.csprojAssemblyReference.cache
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.AssemblyInfoInputs.cache
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.AssemblyInfo.cs
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.csproj.CoreCompileInputs.cache
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.MvcApplicationPartsAssemblyInfo.cache
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.RazorAssemblyInfo.cache
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.RazorAssemblyInfo.cs
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/staticwebassets/InstaSlam.StaticWebAssets.Manifest.cache
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/staticwebassets/InstaSlam.StaticWebAssets.xml
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/scopedcss/bundle/InstaSlam.styles.css
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.TagHelpers.input.cache
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.TagHelpers.output.cache
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.RazorCoreGenerate.cache
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.RazorTargetAssemblyInfo.cache
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.RazorTargetAssemblyInfo.cs
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.Views.pdb
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.csproj.CopyComplete
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.pdb
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.genruntimeconfig.cache
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cors.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Identity.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Localization.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Razor.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Routing.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Session.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.CSharp.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Caching.Memory.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Hosting.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Http.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Identity.Core.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Identity.Stores.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Localization.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.JSInterop.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Net.Http.Headers.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.VisualBasic.Core.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.VisualBasic.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Win32.Primitives.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Win32.Registry.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/mscorlib.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/netstandard.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.AppContext.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Buffers.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Collections.Concurrent.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Collections.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Collections.Immutable.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Collections.NonGeneric.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Collections.Specialized.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.Annotations.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.DataAnnotations.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.Primitives.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.TypeConverter.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Configuration.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Console.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Core.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Data.Common.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Data.DataSetExtensions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Data.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Contracts.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Debug.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.EventLog.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Process.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.StackTrace.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Tools.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.TraceSource.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Tracing.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Drawing.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Drawing.Primitives.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Dynamic.Runtime.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Globalization.Calendars.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Globalization.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Globalization.Extensions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.Brotli.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.FileSystem.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.ZipFile.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.Primitives.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.Watcher.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.IsolatedStorage.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.MemoryMappedFiles.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.Pipelines.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.Pipes.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Linq.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Linq.Expressions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Linq.Parallel.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Linq.Queryable.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Memory.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.Http.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.HttpListener.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.Mail.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.NameResolution.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.NetworkInformation.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.Ping.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.Primitives.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.Requests.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.Security.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.ServicePoint.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.Sockets.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.WebClient.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.WebHeaderCollection.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.WebProxy.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.WebSockets.Client.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.WebSockets.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Numerics.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Numerics.Vectors.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ObjectModel.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.DispatchProxy.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.Lightweight.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.Extensions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.Metadata.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.Primitives.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.TypeExtensions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Resources.Reader.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Resources.ResourceManager.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Resources.Writer.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Extensions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Handles.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.WindowsRuntime.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Intrinsics.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Loader.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Numerics.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Formatters.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Json.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Primitives.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Xml.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.AccessControl.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Claims.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Algorithms.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Cng.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Csp.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Encoding.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Primitives.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Xml.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Permissions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Principal.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Principal.Windows.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.SecureString.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ServiceModel.Web.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ServiceProcess.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.CodePages.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.Extensions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Text.Encodings.Web.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Text.RegularExpressions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Channels.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Overlapped.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Dataflow.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Extensions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Parallel.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Thread.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.ThreadPool.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Timer.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Transactions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Transactions.Local.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ValueTuple.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Web.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Web.HttpUtility.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Windows.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Windows.Extensions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.Linq.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.ReaderWriter.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.Serialization.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.XDocument.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.XmlDocument.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.XmlSerializer.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.XPath.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.XPath.XDocument.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/WindowsBase.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.MvcApplicationPartsAssemblyInfo.cs
+/Users/blest/Desktop/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/Home/Register.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/InstaSlam.deps.json
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/InstaSlam.runtimeconfig.json
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/InstaSlam.runtimeconfig.dev.json
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/InstaSlam.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/InstaSlam.pdb
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cors.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Identity.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Localization.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Razor.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Routing.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Session.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.CSharp.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Caching.Memory.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Hosting.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Http.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Identity.Core.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Identity.Stores.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Localization.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.JSInterop.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Net.Http.Headers.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.VisualBasic.Core.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.VisualBasic.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Win32.Primitives.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Win32.Registry.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/mscorlib.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/netstandard.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.AppContext.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Buffers.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Collections.Concurrent.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Collections.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Collections.Immutable.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Collections.NonGeneric.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Collections.Specialized.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.Annotations.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.DataAnnotations.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.Primitives.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.TypeConverter.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Configuration.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Console.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Core.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Data.Common.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Data.DataSetExtensions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Data.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Contracts.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Debug.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.EventLog.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Process.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.StackTrace.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Tools.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.TraceSource.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Tracing.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Drawing.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Drawing.Primitives.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Dynamic.Runtime.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Globalization.Calendars.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Globalization.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Globalization.Extensions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.Brotli.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.FileSystem.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.ZipFile.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.Primitives.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.Watcher.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.IsolatedStorage.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.MemoryMappedFiles.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.Pipelines.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.Pipes.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Linq.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Linq.Expressions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Linq.Parallel.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Linq.Queryable.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Memory.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.Http.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.HttpListener.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.Mail.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.NameResolution.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.NetworkInformation.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.Ping.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.Primitives.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.Requests.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.Security.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.ServicePoint.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.Sockets.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.WebClient.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.WebHeaderCollection.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.WebProxy.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.WebSockets.Client.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.WebSockets.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Numerics.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Numerics.Vectors.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ObjectModel.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.DispatchProxy.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.Lightweight.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.Extensions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.Metadata.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.Primitives.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.TypeExtensions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Resources.Reader.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Resources.ResourceManager.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Resources.Writer.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Extensions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Handles.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.WindowsRuntime.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Intrinsics.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Loader.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Numerics.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Formatters.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Json.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Primitives.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Xml.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.AccessControl.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Claims.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Algorithms.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Cng.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Csp.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Encoding.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Primitives.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Xml.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Permissions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Principal.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Principal.Windows.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.SecureString.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ServiceModel.Web.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ServiceProcess.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.CodePages.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.Extensions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Text.Encodings.Web.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Text.RegularExpressions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Channels.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Overlapped.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Dataflow.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Extensions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Parallel.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Thread.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.ThreadPool.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Timer.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Transactions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Transactions.Local.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ValueTuple.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Web.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Web.HttpUtility.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Windows.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Windows.Extensions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.Linq.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.ReaderWriter.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.Serialization.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.XDocument.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.XmlDocument.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.XmlSerializer.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.XPath.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.XPath.XDocument.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/WindowsBase.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/InstaSlam.Views.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/InstaSlam.Views.pdb
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.csprojAssemblyReference.cache
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.AssemblyInfoInputs.cache
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.AssemblyInfo.cs
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.csproj.CoreCompileInputs.cache
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.MvcApplicationPartsAssemblyInfo.cs
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.MvcApplicationPartsAssemblyInfo.cache
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.RazorAssemblyInfo.cache
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.RazorAssemblyInfo.cs
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/staticwebassets/InstaSlam.StaticWebAssets.Manifest.cache
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/staticwebassets/InstaSlam.StaticWebAssets.xml
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/scopedcss/bundle/InstaSlam.styles.css
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.TagHelpers.input.cache
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.TagHelpers.output.cache
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.RazorCoreGenerate.cache
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/Home/Register.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.RazorTargetAssemblyInfo.cache
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.RazorTargetAssemblyInfo.cs
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.Views.pdb
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.csproj.CopyComplete
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.dll
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.pdb
+/Users/blest/Desktop/InstaSlam/My Gram/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.genruntimeconfig.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/InstaSlam.deps.json
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/InstaSlam.runtimeconfig.json
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/InstaSlam.runtimeconfig.dev.json
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/InstaSlam.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/InstaSlam.pdb
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cors.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Identity.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Localization.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Razor.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Routing.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.Session.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.CSharp.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Caching.Memory.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Hosting.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Http.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Identity.Core.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Identity.Stores.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Localization.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.JSInterop.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Net.Http.Headers.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.VisualBasic.Core.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.VisualBasic.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Win32.Primitives.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/Microsoft.Win32.Registry.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/mscorlib.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/netstandard.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.AppContext.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Buffers.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Collections.Concurrent.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Collections.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Collections.Immutable.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Collections.NonGeneric.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Collections.Specialized.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.Annotations.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.DataAnnotations.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.Primitives.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ComponentModel.TypeConverter.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Configuration.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Console.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Core.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Data.Common.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Data.DataSetExtensions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Data.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Contracts.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Debug.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.EventLog.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Process.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.StackTrace.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Tools.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.TraceSource.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Diagnostics.Tracing.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Drawing.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Drawing.Primitives.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Dynamic.Runtime.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Globalization.Calendars.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Globalization.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Globalization.Extensions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.Brotli.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.FileSystem.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.Compression.ZipFile.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.Primitives.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.FileSystem.Watcher.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.IsolatedStorage.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.MemoryMappedFiles.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.Pipelines.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.Pipes.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Linq.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Linq.Expressions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Linq.Parallel.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Linq.Queryable.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Memory.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.Http.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.HttpListener.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.Mail.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.NameResolution.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.NetworkInformation.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.Ping.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.Primitives.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.Requests.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.Security.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.ServicePoint.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.Sockets.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.WebClient.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.WebHeaderCollection.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.WebProxy.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.WebSockets.Client.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Net.WebSockets.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Numerics.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Numerics.Vectors.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ObjectModel.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.DispatchProxy.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.Emit.Lightweight.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.Extensions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.Metadata.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.Primitives.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Reflection.TypeExtensions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Resources.Reader.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Resources.ResourceManager.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Resources.Writer.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Extensions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Handles.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.InteropServices.WindowsRuntime.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Intrinsics.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Loader.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Numerics.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Formatters.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Json.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Primitives.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Runtime.Serialization.Xml.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.AccessControl.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Claims.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Algorithms.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Cng.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Csp.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Encoding.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Primitives.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Cryptography.Xml.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Permissions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Principal.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.Principal.Windows.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Security.SecureString.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ServiceModel.Web.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ServiceProcess.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.CodePages.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Text.Encoding.Extensions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Text.Encodings.Web.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Text.RegularExpressions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Channels.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Overlapped.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Dataflow.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Extensions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Tasks.Parallel.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Thread.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.ThreadPool.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Threading.Timer.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Transactions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Transactions.Local.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.ValueTuple.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Web.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Web.HttpUtility.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Windows.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Windows.Extensions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.Linq.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.ReaderWriter.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.Serialization.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.XDocument.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.XmlDocument.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.XmlSerializer.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.XPath.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/System.Xml.XPath.XDocument.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/refs/WindowsBase.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/InstaSlam.Views.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/InstaSlam.Views.pdb
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.csprojAssemblyReference.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.AssemblyInfoInputs.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.AssemblyInfo.cs
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.csproj.CoreCompileInputs.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.MvcApplicationPartsAssemblyInfo.cs
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.MvcApplicationPartsAssemblyInfo.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.RazorAssemblyInfo.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.RazorAssemblyInfo.cs
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/staticwebassets/InstaSlam.StaticWebAssets.Manifest.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/staticwebassets/InstaSlam.StaticWebAssets.xml
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/scopedcss/bundle/InstaSlam.styles.css
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.TagHelpers.input.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.TagHelpers.output.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.RazorCoreGenerate.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/Home/Register.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.RazorTargetAssemblyInfo.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.RazorTargetAssemblyInfo.cs
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.Views.pdb
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.csproj.CopyComplete
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.dll
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.pdb
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/InstaSlam.genruntimeconfig.cache
+/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/Debug/netcoreapp3.1/Razor/Views/Home/UserProfile.cshtml.g.cs

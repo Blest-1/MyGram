@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/blest/.dotnet/store/|arch|/|tfm|",
+      "/Users/blest/.nuget/packages"
+    ]
+  }
+}
