@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3USDZZMRgwKpf0UbXOewG3l34z1yU+I9rpqUySy9060mkMmBPisQWk3ctC/sNhEV8GAPcgFKA4uc89uWM0zBnA==",
+  "dgSpecHash": "e0ZmzsVLVgMuBT0ELX+wH/SFvtnE6xPO24rG547f7XmnhPvbpHWcFZMaQsGL2c0TX2MOJH4JlLITN58XFAMUpQ==",
   "success": true,
-  "projectFilePath": "/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/InstaSlam.csproj",
+  "projectFilePath": "/Users/blest/Desktop/Projects/Instagram/InstaSlam.csproj",
   "expectedPackageFiles": [
     "/Users/blest/.nuget/packages/microsoft.aspnetcore.mvc.razor.extensions/3.1.13/microsoft.aspnetcore.mvc.razor.extensions.3.1.13.nupkg.sha512",
     "/Users/blest/.nuget/packages/microsoft.aspnetcore.mvc.razor.runtimecompilation/3.1.13/microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.13.nupkg.sha512",

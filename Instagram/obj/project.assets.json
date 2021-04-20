@@ -897,11 +897,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/InstaSlam.csproj",
+      "projectUniqueName": "/Users/blest/Desktop/Projects/Instagram/InstaSlam.csproj",
       "projectName": "InstaSlam",
-      "projectPath": "/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/InstaSlam.csproj",
+      "projectPath": "/Users/blest/Desktop/Projects/Instagram/InstaSlam.csproj",
       "packagesPath": "/Users/blest/.nuget/packages/",
-      "outputPath": "/Users/blest/Desktop/InstaSlam/InstaSlam/My Gram/Instagram/obj/",
+      "outputPath": "/Users/blest/Desktop/Projects/Instagram/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/blest/.config/NuGet/NuGet.Config"
