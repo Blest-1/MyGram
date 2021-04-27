@@ -1,0 +1,32 @@
+﻿img {
+    width: 150px;
+    height: 150px;
+}
+
+video {
+    width: 150px;
+    height: 150px;
+}
+#Follow {
+    background-color: dodgerblue;
+    color: white !important;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 4px 8px 4px 8px
+}
+
+  #Follow td:hover {
+        background-color: royalblue !important;
+        text-decoration: none;
+    }
+
+nav a {
+    color: grey !important;
+}
+nav a:hover {
+    color: black !important;
+    text-decoration: none;
+}

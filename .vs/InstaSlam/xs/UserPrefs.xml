@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{83C234D7-E493-4DB8-8EF7-1FBC185D24CD}|Default">
+  <MonoDevelop.Ide.ItemProperties.InstaSlam PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Instagram/wwwroot/css/site.css">
+    <Files>
+      <File FileName="Instagram/wwwroot/css/site.css" Line="102" Column="1" />
+      <File FileName="Instagram/Views/Shared/_Layout.cshtml" />
+      <File FileName="Instagram/wwwroot/css/Index.css" />
+      <File FileName="Instagram/Views/Home/Index.cshtml" />
+      <File FileName="Instagram/Views/Home/UserProfile.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InstaSlam" expanded="True">
+            <Node name="InstaSlam" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="site.css" selected="True" />
+                </Node>
+                <Node name="Images" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

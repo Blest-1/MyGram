@@ -3,28 +3,22 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - My Gram</title>
+    <title>My Gram</title>
+    <link rel="stylesheet" href="~/css/Index.css" />
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
-</head>
+    </head>
 <body>
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
-                <h1>@ViewData["Title"]</h1>
-            <table>
-                <tfoot>
-                    <tr>
-                       <td>
-                           <button>Log In</button>
-                       </td>
-                       <td>
-                           <a href="~/Home/Register"><button>Sign Up</button> </a>
-                       </td>
-                   </tr>
-                </tfoot>
-            </table>
-                </div>
+                <h1 id="Gram">My Gram</h1>
+                <input type="text" placeholder="Search" id="Search" />
+                <a class="Buttons" href=""> Log In</a>
+                <a class="Buttons" href="~/Home/Register">Sign Up</a>
+                <a class="User" href="~/Home/UserProfile"><img class="User" href="~/Home/UserProfile" alt="UserIcon" src="~/images/UserIcon.png" /></a>
+            </div>
+           
         </nav>
     </header>
     <div class="container">
@@ -33,7 +27,7 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+    <footer class="border-top footer text-muted;">
         <div class="container">
             <a href="https://google.com/"target="_Blank">About</a>
             <a href="1234"target="_Blank">Blog</a>
