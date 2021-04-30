@@ -3,6 +3,11 @@
     height: 150px;
 }
 
+.Samurai {
+    border-radius: 100px !important;
+    border-color: white !important;
+}
+
 video {
     width: 150px;
     height: 150px;
@@ -18,8 +23,8 @@ video {
     padding: 4px 8px 4px 8px
 }
 
-  #Follow td:hover {
-        background-color: royalblue !important;
+  #Follow:hover {
+        background-color: royalblue;
         text-decoration: none;
     }
 
@@ -30,3 +35,23 @@ nav a:hover {
     color: black !important;
     text-decoration: none;
 }
+
+nav a {
+    margin-right: 25px;
+}
+
+.UserLinks {
+    text-align: center;
+}
+
+    .ProfileStatus {
+        
+        margin-left: 350px;
+    }
+
+    #ProfileImages {
+
+       margin-left: 29%;
+    }
+
+    

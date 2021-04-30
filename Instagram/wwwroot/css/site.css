@@ -82,11 +82,14 @@ body {
 
         #Gram {
         font-family: cursive, sans-serif;
-        font-weight: bold;
+        
     }
+        .footer div {
+            text-align: center;
+        }
 
 .Buttons {
-    background-color: dodgerblue!important;
+    background-color: dodgerblue;
     color: white !important;
     border-style: solid;
     border-width: 1px;
@@ -95,10 +98,11 @@ body {
     text-decoration: none;
     padding: 4px 8px 4px 8px
 }
-.Buttons a:hover {
-    background-color: royalblue!important;
-    text-decoration: none;
-}
+    .Buttons:hover {
+        background-color: royalblue !important;
+        color: white !important;
+    }
+  
 
 .User {
     width: 20px !important;
