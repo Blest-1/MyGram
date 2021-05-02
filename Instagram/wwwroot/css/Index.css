@@ -3,9 +3,37 @@
     height: 150px;
 }
 
+body {
+    background-color: #fafafa;
+}
+
 .Samurai {
     border-radius: 100px !important;
     border-color: white !important;
+}
+
+.Favorites {
+    margin-left: 145px !important;
+   
+}
+
+
+#WildStyle div {
+    margin-right:15px!important
+}
+
+.Wild {
+    width: 70px;
+    height: 70px;
+    border-radius: 35px!important;
+    margin-left:30px!important;
+}
+
+.style {
+    width: 70px;
+    height: 70px;
+    border-radius: 35px !important;
+    margin-left: 30px !important;
 }
 
 video {

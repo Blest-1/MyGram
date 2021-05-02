@@ -72,16 +72,21 @@ body {
 }
  
   .footer a {
-            color: gray;
+            color: gray;  
         }
 
-  .footer a:hover {
-        color: black;
-        text-decoration: none;
-    }
+.footer {
+    background-color: white!important;
+}
+
+.footer a:hover {
+    color: black;
+    text-decoration: none;
+}
 
         #Gram {
         font-family: cursive, sans-serif;
+        font-weight: bold;
         
     }
         .footer div {
