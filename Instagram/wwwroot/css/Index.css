@@ -138,7 +138,36 @@ nav a {
 
 }
 
-.Logbar {
-    
+.Bike1 {
+    z-index: 2;
+    position: sticky;
 }
 
+.Bike1:hover .Bike2 {
+    display: block;
+}
+
+.Bike2 {
+    background-color: RGBA(0,0,0,.8);
+    color: white;
+    text-align: center;
+    padding-top: 45%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    backdrop-filter: blur(2px);
+    width: 150px;
+    height: 150px;
+    display: none;
+}
+
+.Thumb {
+    width: 15px !important;
+    height: 15px !important;
+}
+
+.Comment {
+    width: 15px !important;
+    height: 15px !important;
+}

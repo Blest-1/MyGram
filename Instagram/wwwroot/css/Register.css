@@ -1,0 +1,15 @@
+﻿.Register {
+    background-color: dodgerblue;
+    color: white !important;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 4px 8px 4px 8px
+}
+
+.Register:hover {
+    background-color: royalblue !important;
+    color: white !important;
+}
